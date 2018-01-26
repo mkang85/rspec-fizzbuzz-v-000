@@ -1,5 +1,5 @@
 def fizzbuzz(num)
   if num % 3 == 0
-    print "Fizz"
+     "Fizz"
   end
   end
